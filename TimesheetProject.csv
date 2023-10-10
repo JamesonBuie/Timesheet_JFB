@@ -1,38 +1,64 @@
 ﻿Initials,Date,Course ID,Time (min),Summary
-JB,5-Sep,DS-160-01,93,Worked on in class Excel assignment. Listened to part of podcast.
-JB,5-Sep,DS-300-01,105,Worked on homework. Attended class
-JB,5-Sep,BUSA-245-02,75,Went to class. Practiced HTML
-JB,6-Sep,ECON-111-01,80,Lecture over chapter 4. Worked on homework
-JB,6-Sep,PHYS-105-01,95,Went to class. Completed lab over planet mass and distance from the sun
-JB,6-Sep,DS-160-01,35,Finished podcast summary 1
-JB,7-Sep,DS-160-01,75,Worked on data analysis with jupyter 
-JB,7-Sep,DS-300-01,105,Completed chapter 9 homework. Attended class
-JB,7-Sep,BUSA-245-02,75,Class discussion over AI generated songs. Excel lab and quiz.
-JB,8-Sep,ECON-111-01,70,Presentation in class. Completed chapter 4 homework
-JB,11-Sep,ECON-111-01,75,Chapter 5 lecture. Worked on homework
-JB,11-Sep,PHYS-105-01,50,Lecture over gravity
-JB,12-Sep,DS-160-01,55,Pandas. Completed homework assignment
-JB,12-Sep,BUSA-245-02,75,Lab over SQL introduction
-JB,12-Sep,DS-300-01,75,Chapter 10.1 Linear regression
-JB,13-Sep,ECON-111-01,50,Chapter 20 lecture
-JB,13-Sep,PHYS-105-01,50,Gravity and planets
-JB,14-Sep,DS-160-01,105,Completed pandas notebook. Worked on IP3
-JB,14-Sep,BUSA-245-02,75,Class discussion over AI police dogs. SQL lab advanced
-JB,14-Sep,DS-300-01,75,Lecture over 10.2
-JB,15-Sep,ECON-111-01,50,Chapter 20 introduction
-JB,18-Sep,ECON-111-01,50,Chapter 20 lecture
-JB,18-Sep,PHYS-105-01,50,Planet speed and motion
-JB,19-Sep,DS-160-01,75,Completed in class pandas assignment
-JB,19-Sep,BUSA-245-02,75,SQL lab 7
-JB,19-Sep,DS-300-01,75,Multiple regression case study
-JB,20-Sep,DS-160-01,20,Updated in class assignment with new code
-JB,20-Sep,ECON-111-01,50,Chapter 21 lecture
-JB,20-Sep,PHYS-105-01,70,Lecture over viewing the sky from earth. Lab 2
-JB,21-Sep,DS-160-01,75,Matplotlib
-JB,21-Sep,BUSA-245-02,75,Excel lab. SQL review
-JB,21-Sep,DS-300-01,75,Finish chapter 11
-JB,22-Sep,ECON-111-01,50,Chapter 21 lecture
-JB,23-Sep,DS-300-01,22,Finish Chapter 21 homework
-JB,24-Sep,BUSA-245-02,35,Lab 8 completion. Pivot tables in excel
-JB,25-Sep,ECON-111-01,50,Finish Chapter 21
-JB,25-Sep,PHYS-105-01,50,Began chapter 3
+JB,9/5/23,DS-160-01,93,Worked on in class Excel assignment. Listened to part of podcast.
+JB,9/5/23,DS-300-01,105,Worked on homework. Attended class
+JB,9/5/23,BUSA-245-02,75,Went to class. Practiced HTML
+JB,9/6/23,ECON-111-01,80,Lecture over chapter 4. Worked on homework
+JB,9/6/23,PHYS-105-01,95,Went to class. Completed lab over planet mass and distance from the sun
+JB,9/6/23,DS-160-01,35,Finished podcast summary 1
+JB,9/7/23,DS-160-01,75,Worked on data analysis with jupyter 
+JB,9/7/23,DS-300-01,105,Completed chapter 9 homework. Attended class
+JB,9/7/23,BUSA-245-02,75,Class discussion over AI generated songs. Excel lab and quiz.
+JB,9/8/23,ECON-111-01,70,Presentation in class. Completed chapter 4 homework
+JB,9/11/23,ECON-111-01,75,Chapter 5 lecture. Worked on homework
+JB,9/11/23,PHYS-105-01,50,Lecture over gravity
+JB,9/12/23,DS-160-01,55,Pandas. Completed homework assignment
+JB,9/12/23,BUSA-245-02,75,Lab over SQL introduction
+JB,9/12/23,DS-300-01,75,Chapter 10.1 Linear regression
+JB,9/13/23,ECON-111-01,50,Chapter 20 lecture
+JB,9/13/23,PHYS-105-01,50,Gravity and planets
+JB,9/14/23,DS-160-01,105,Completed pandas notebook. Worked on IP3
+JB,9/14/23,BUSA-245-02,75,Class discussion over AI police dogs. SQL lab advanced
+JB,9/14/23,DS-300-01,75,Lecture over 10.2
+JB,9/15/23,ECON-111-01,50,Chapter 20 introduction
+JB,9/18/23,ECON-111-01,50,Chapter 20 lecture
+JB,9/18/23,PHYS-105-01,50,Planet speed and motion
+JB,9/19/23,DS-160-01,75,Completed in class pandas assignment
+JB,9/19/23,BUSA-245-02,75,SQL lab 7
+JB,9/19/23,DS-300-01,75,Multiple regression case study
+JB,9/20/23,DS-160-01,20,Updated in class assignment with new code
+JB,9/20/23,ECON-111-01,50,Chapter 21 lecture
+JB,9/20/23,PHYS-105-01,70,Lecture over viewing the sky from earth. Lab 2
+JB,9/21/23,DS-160-01,75,Matplotlib
+JB,9/21/23,BUSA-245-02,75,Excel lab. SQL review
+JB,9/21/23,DS-300-01,75,Finish chapter 11
+JB,9/22/23,ECON-111-01,50,Chapter 21 lecture
+JB,9/23/23,DS-300-01,22,Finish Chapter 21 homework
+JB,9/24/23,BUSA-245-02,35,Lab 8 completion. Pivot tables in excel
+JB,9/25/23,ECON-111-01,50,Finish Chapter 21
+JB,9/25/23,PHYS-105-01,50,Began chapter 3
+JB,9/26/23,DS-160-01,75,Matplotlib
+JB,9/26/23,BUSA-245-02,75,Class discussion over AI cars
+JB,9/26/23,DS-300-01,75,Finish chapter 11 homework
+JB,9/27/23,ECON-111-01,130,Review unit 1. Complete chapter 21 homework
+JB,9/27/23,BUSA-245-02,35,Complete lab 9
+JB,9/28/23,DS-160-01,75,Began using seaborn notebook
+JB,9/29/23,BUSA-245-02,20,Finish quiz 4
+JB,9/29/23,ECON-111-01,35,Complete unit 1 test
+JB,10/1/23,DS-300-01,100,Work on group portion of test'
+JB,10/2/23,ECON-111-01,50,Chapter 22 lecture
+JB,10/2/23,PHYS-105-01,50,Review for first test
+JB,10/2/23,DS-300-01,40,Complete group test
+JB,10/3/23,DS-160-01,115,Complete seaborn notebook. Finish inclass assignment
+JB,10/3/23,BUSA-245-02,50,Lab 11 complete
+JB,10/3/23,DS-300-01,55,Complete test 1
+JB,10/4/23,ECON-111-01,50,Chapter 22 lecture
+JB,10/4/23,PHYS-105-01,78,chapter 1 test and lab 4
+JB,10/4/23,DS-160-01,45,Complete project 3
+JB,10/5/23,DS-160-01,105,Began tableau unit. Worked on tableau dashboard
+JB,10/5/23,BUSA-245-02,56,Class discussion. Lab 12 over web design
+JB,10/5/23,DS-300-01,75,Analysis of variance.
+JB,10/6/23,ECON-111-01,50,Finish Chapter 22
+JB,10/7/23,DS-160-01,20,Finish tableau dashboard
+JB,10/8/23,ECON-111-01,50,Began chapter 23
+JB,10/8/23,PHYS-105-01,90,Chapter 4. Redo lab
+,,,,
